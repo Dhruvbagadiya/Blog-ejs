@@ -39,6 +39,4 @@ mongoose.connect("mongodb://localhost:27017/blogDB", {useNewUrlParser: true});
 ## More Info
 - To compose a new post enter `localhost:3000/compose` in your web browser's search bar.
 
-- To compose a new post in the live site visit [https://cerise-seahorse-vest.cyclic.app/compose](https://cerise-seahorse-vest.cyclic.app/compose)
-
 - Only technical articles are allowed on the live site.
